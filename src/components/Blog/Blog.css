@@ -1,0 +1,15 @@
+.blog {
+    background: #ccc;
+    padding: 30px;
+    max-width: 1280px;
+    margin: 0 auto;
+}
+.blog a {
+    display: block;
+    text-decoration: none;
+    color: cornflowerblue;
+    font-family: 'Nunito', sans-serif;
+}
+.blog a:hover {
+    text-decoration: underline;
+}

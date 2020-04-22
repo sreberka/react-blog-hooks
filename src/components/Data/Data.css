@@ -1,0 +1,16 @@
+.data {
+    font-family: 'Nunito', sans-serif;
+}
+.data a {
+    display: block;
+    text-decoration: none;
+    color: cornflowerblue;
+    font-family: 'Nunito', sans-serif;
+}
+.data a:hover {
+    text-decoration: underline;
+}
+
+button {
+    margin-bottom: 30px;
+}
